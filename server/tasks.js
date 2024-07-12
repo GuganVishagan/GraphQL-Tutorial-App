@@ -1,0 +1,22 @@
+exports.Tasks = [
+    {"id": 1, "title": "Design homepage", "projectId": 1},
+    {"id": 2, "title": "Setup database", "projectId": 1},
+    {"id": 3, "title": "Create API", "projectId": 2},
+    {"id": 4, "title": "Write tests", "projectId": 3},
+    {"id": 5, "title": "Deploy to production", "projectId": 4},
+    {"id": 6, "title": "Conduct user research", "projectId": 5},
+    {"id": 7, "title": "Create wireframes", "projectId": 6},
+    {"id": 8, "title": "Implement frontend", "projectId": 7},
+    {"id": 9, "title": "Review code", "projectId": 8},
+    {"id": 10, "title": "Launch beta version", "projectId": 9},
+    {"id": 11, "title": "Gather feedback", "projectId": 10},
+    {"id": 12, "title": "Optimize performance", "projectId": 11},
+    {"id": 13, "title": "Update documentation", "projectId": 12},
+    {"id": 14, "title": "Fix bugs", "projectId": 13},
+    {"id": 15, "title": "Plan sprint", "projectId": 14},
+    {"id": 16, "title": "Conduct meeting", "projectId": 15},
+    {"id": 17, "title": "Analyze data", "projectId": 16},
+    {"id": 18, "title": "Create marketing plan", "projectId": 17},
+    {"id": 19, "title": "Monitor user engagement", "projectId": 18},
+    {"id": 20, "title": "Prepare presentation", "projectId": 19}
+]

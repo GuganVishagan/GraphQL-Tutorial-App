@@ -1,0 +1,22 @@
+exports.Projects = [
+    {"id": 1, "name": "Project Alpha", "ownerId": 1},
+    {"id": 2, "name": "Project Beta", "ownerId": 2},
+    {"id": 3, "name": "Project Gamma", "ownerId": 1},
+    {"id": 4, "name": "Project Delta", "ownerId": 3},
+    {"id": 5, "name": "Project Epsilon", "ownerId": 2},
+    {"id": 6, "name": "Project Zeta", "ownerId": 4},
+    {"id": 7, "name": "Project Eta", "ownerId": 5},
+    {"id": 8, "name": "Project Theta", "ownerId": 3},
+    {"id": 9, "name": "Project Iota", "ownerId": 1},
+    {"id": 10, "name": "Project Kappa", "ownerId": 2},
+    {"id": 11, "name": "Project Lambda", "ownerId": 4},
+    {"id": 12, "name": "Project Mu", "ownerId": 5},
+    {"id": 13, "name": "Project Nu", "ownerId": 1},
+    {"id": 14, "name": "Project Xi", "ownerId": 3},
+    {"id": 15, "name": "Project Omicron", "ownerId": 2},
+    {"id": 16, "name": "Project Pi", "ownerId": 4},
+    {"id": 17, "name": "Project Rho", "ownerId": 5},
+    {"id": 18, "name": "Project Sigma", "ownerId": 1},
+    {"id": 19, "name": "Project Tau", "ownerId": 3},
+    {"id": 20, "name": "Project Upsilon", "ownerId": 2}
+];
